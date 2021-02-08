@@ -1,0 +1,10 @@
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP Status Code Checker.csprojAssemblyReference.cache
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP_Status_Code_Checker.Form1.resources
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP_Status_Code_Checker.Properties.Resources.resources
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP Status Code Checker.csproj.GenerateResource.cache
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP Status Code Checker.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\bin\Debug\HTTP Status Code Checker.exe.config
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\bin\Debug\HTTP Status Code Checker.exe
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\bin\Debug\HTTP Status Code Checker.pdb
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP Status Code Checker.exe
+C:\Users\Hunter\Source\repos\HTTP Status Code Checker\HTTP Status Code Checker\obj\Debug\HTTP Status Code Checker.pdb
